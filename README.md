@@ -7,7 +7,7 @@
 *Not your average todo helpers. These are the niche, hard-won procedures I actually reach for.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg?style=flat-square)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-1-brightgreen.svg?style=flat-square)](#-the-collection)
+[![Skills](https://img.shields.io/badge/skills-2-brightgreen.svg?style=flat-square)](#-the-collection)
 [![Format](https://img.shields.io/badge/format-SKILL.md-blue.svg?style=flat-square)](#-how-a-skill-works)
 [![Built for](https://img.shields.io/badge/built%20for-Claude%20Code-d97757.svg?style=flat-square)](https://docs.claude.com/en/docs/claude-code)
 
@@ -26,6 +26,7 @@ Think of this repo as a toolbelt: each skill is a tool I've sharpened on a real 
 | Skill | What it does | Reach for it when… |
 | --- | --- | --- |
 | [**claim-db-compensation**](claim-db-compensation/) | Files a Deutsche Bahn passenger-rights (Fahrgastrechte) claim end-to-end on bahn.de — delay refund **and** reimbursement of an extra seat/ticket. | a DB train was late or cancelled and you want your money back. |
+| [**update-rundfunkbeitrag**](update-rundfunkbeitrag/) | Changes your German broadcasting-fee (Rundfunkbeitrag) details on rundfunkbeitrag.de — bank account / IBAN & SEPA mandate, address, name, payment rhythm — driven in the browser, with you entering the IBAN & CAPTCHA. | you need to change the bank account the Rundfunkbeitrag / "GEZ" is debited from (or report a new address/name). |
 
 > _More on the way — these aren't limited to everyday life; anything I find myself doing more than once is fair game._
 
